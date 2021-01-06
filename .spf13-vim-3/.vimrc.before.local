@@ -1,0 +1,6 @@
+set nocompatible
+filetype off
+let g:spf13_bundle_groups=['general',  'programming', ]
+let g:spf13_leader='\'
+let g:spf13_keep_trailing_whitespace = 1
+

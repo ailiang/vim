@@ -1,0 +1,3 @@
+Bundle 'derekwyatt/vim-fswitch'
+UnBundle 'mhinz/vim-signify'
+Bundle 'ludovicchabant/vim-gutentags'
